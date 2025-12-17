@@ -14,5 +14,5 @@ for (int i=0; i<=20; i++)
 }
 float conversione (int gradi_c)
 {
-	return 32+(9/5)*gradi_c;
+	return 40+(10/6)*gradi_c;
 }
